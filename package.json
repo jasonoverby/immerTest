@@ -1,0 +1,25 @@
+{
+  "name": "immerPlay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "immerPlay.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^2.1.4",
+    "typescript": "^3.3.4000"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@typescript-eslint/eslint-plugin": "^1.5.0",
+    "@typescript-eslint/parser": "^1.5.0",
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.0"
+  }
+}
